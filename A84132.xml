@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegies celebrating the happy memory of Sr. Horatio Veere Baron of Tilbury, Collonell Generall of the English, in the United Provinces, and Mr. of the ordnance in England, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84132</idno><idno type="EEBO-CITATION">99867384</idno>
+  <idno type="VID">119694</idno>
+  <idno type="EEBO-PROQUEST">2240935415</idno>
+  
+            <idno type="STC">Wing E338</idno>
+            <idno type="STC">Thomason E1109_1*</idno>
+            <idno type="STC">ESTC R208429</idno>
+            <idno type="PROQUEST">99867384</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867384e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119694)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 163:E1109[1*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elegies celebrating the happy memory of Sr. Horatio Veere Baron of Tilbury, Collonell Generall of the English, in the United Provinces, and Mr. of the ordnance in England, &amp;c.</title>
+               </titleStmt>
+               <extent>[78] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Badger, for Christopher Meredith, at the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A³, B-E, F⁴.</note>
+                  <note>Errata p. [76].</note>
+                  <note>Imprimatur signed and dated p. [77]: John Hansley. July 16. 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Vere of Tilbury, Horace Vere, --  Baron, 1565-1635 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119694:1"/>
+            <p>ELEGIES <hi>Celebrating the Happy Memory</hi> OF S<seg rend="sup">r.</seg>
+               <hi>HORATIO VEERE</hi> Baron of TILBURY, Collonell Generall of the <hi>English,</hi> In the Vnited Provinces, AND M<seg rend="sup">r</seg>. of the ORDNANCE in ENGLAND, <hi>&amp;c.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>T. Badger,</hi> for <hi>Christopher Meredith,</hi> at the <hi>Crane</hi> in <hi>Pauls</hi> Church-yard. 1642.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119694:2"/>
+            <pb facs="tcp:119694:2"/>
+            <p>To<lb/> The vertuous and most noble<lb/> LADIE,<lb/> The LADIE VEERE<lb/> late wife to the ever honored<lb/> the Lord HORATIO VEERE,<lb/> TO<lb/> Whose happy Memory be these <hi>Elegies</hi>
+               <lb/> ERECTED,<lb/>
+               <hi>AND HERE<lb/> Most humbly Dedicated to her</hi> Ladyship<lb/>
+               <hi>In due</hi> Reverence <hi>to His</hi> Fame<lb/> and<lb/> GLORIE.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:119694:3"/>
+            <pb facs="tcp:119694:3"/>
+            <head>To the unfading Memory of the Lord HORATIO VEERE deceased.</head>
+            <lg>
+               <l>IF you would be resolv'd whose <hi>Dust</hi> lies here</l>
+               <l>Know 'tis the remnant of that <hi>Noble</hi> VEERE</l>
+               <l>Whose tall <hi>Atchivements</hi> fill so large a room,</l>
+               <l>As <hi>Europe</hi> is too narrovv for their Tombe,</l>
+               <l>And He can never perish in His <hi>Name</hi>
+               </l>
+               <l>Whilst there is such a thing a broad as <hi>Fame.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Iust <hi>Belgia</hi> had cause enough to boast,</l>
+               <l>That He alone vvas her confiding <hi>Hoast;</hi>
+               </l>
+               <l>Who singly vvhen the Army vvas avvay</l>
+               <l>Suppli'd the place of the <hi>Militia.</hi>
+               </l>
+               <l>And had unto her <hi>Seventeen Provinces</hi>
+               </l>
+               <l>E're this, united the <hi>Antipodes;</hi>
+               </l>
+               <l>And future times vvill deem that Land to lie</l>
+               <l>Entrench'd in teares that fell vvhen He did dye,</l>
+               <pb facs="tcp:119694:4"/>
+               <l>And it vvill be Impiety to make</l>
+               <l>It firme, but rather drovvn it for His sake,</l>
+               <l>For the <hi>Low-Countries</hi> by His <hi>Deeds</hi> shall be</l>
+               <l>Preferr'd in Story to <hi>High-Germany.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But Thou hast so out-fought Thy selfe that time,</l>
+               <l>Will thinke such <hi>Actions</hi> could be none of Thine,</l>
+               <l>And vvhil'st Thou did'st Thy <hi>Vertue</hi> so advance,</l>
+               <l>'Twas not a <hi>Truth</hi> but a well fainde <hi>Romance,</hi>
+               </l>
+               <l>And I, preserving of Thy Honour, feare</l>
+               <l>
+                  <hi>Thou</hi> vvilt be thought no <hi>Lord</hi> having no <hi>Peere.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>E. S.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:4"/>
+            <head>TO THE MEMORY OF THAT NOBLE, WORTHY HORATIO the Lord VEERE, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">Y</seg>Et least the <hi>Dutch</hi> should steale his Fame, and so</l>
+               <l>Hereafter call him <hi>Van</hi> HORATIO,</l>
+               <l>I'le speake Him <hi>Englands Glory</hi> vvee'd not loose</l>
+               <l>His Name for the best Kingdom vve could choose</l>
+               <l>Here as in <hi>Sternehold's Verses,</hi> you shall meet</l>
+               <l>Stout Piety on lame uneven feet.</l>
+               <l>But hurts are Souldiers Graces, then 'tvvill be</l>
+               <l>No blemish if he take a vvound from me,</l>
+               <l>Though more perhaps in <hi>Old Coranto's</hi> se'd,</l>
+               <l>Which for his sake are studied and still read</l>
+               <l>Yet vvill I boldly vvrite, though nothing say;</l>
+               <l>He of rack'd Phancy too doth win the day.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:119694:5"/>
+               <l>First then be pleas'd to knovv (though <hi>Calo</hi> thought</l>
+               <l>The stoutest Souldiers from the Plough vvere brought)</l>
+               <l>That His descent vvas High, His bloud did spring</l>
+               <l>From the cleare Fount vvhere Arts have nourishing</l>
+               <l>
+                  <hi>Oxsord,</hi> like <hi>Janus Temple,</hi> novv shall be</l>
+               <l>For <hi>War</hi> as <hi>Peace,</hi> for <hi>Mars</hi> as <hi>Mercury,</hi>
+               </l>
+               <l>'Tis Heresie to think brave Spirits bud</l>
+               <l>From Vulgar veines svveld up vvith Whey and Mud</l>
+               <l>Soft Beauties to beare Souldiers hence have povver</l>
+               <l>VEERE of a <hi>Lady's</hi> borne, <hi>Mars of a Flower.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But He high Births as things of chance did scorne</l>
+               <l>He liv'd more Nobly far than He vvas borne.</l>
+               <l>He left the Wanton Chambers, vvhere soft Beds</l>
+               <l>Beare Feathers and vvhat's lighter Courtiers heads:</l>
+               <l>And chose the Fields of Honor; they that have</l>
+               <l>The Earth their Bed, claime Heaven for their Grave,</l>
+               <l>Hard nights bred solid Fame, thus <hi>Jacob</hi> did</l>
+               <l>And's Pillovv straite became His Pyramid,</l>
+               <l>Thinking all City-businesse sloath, He vvent</l>
+               <l>(His life being a true Warfare) to a Tent,</l>
+               <l>Where He in sleeps and Holy-dayes, did more</l>
+               <l>Service, than others tugging the Oare.</l>
+               <pb facs="tcp:119694:5"/>
+               <l>He did not travell forth as others, vvho</l>
+               <l>Steale their ovvn Goods, yea their ovvn Bodies too;</l>
+               <l>And with their Heeles pay Debts in <hi>Germany</hi>
+               </l>
+               <l>Not taking Armes, so much as Sanctuary</l>
+               <l>Who go to Sea to shun the <hi>City-Fleet.</hi>
+               </l>
+               <l>And hoyse sayle only to avoyd the Sheet;</l>
+               <l>Thinking unlavvfull births, and Murders here,</l>
+               <l>May expiated be by killing there.</l>
+               <l>Nor vvas he by that old <hi>State-Policy</hi> sent</l>
+               <l>Thither, as to a noble Banishment,</l>
+               <l>Because His Active Soule so high did rise</l>
+               <l>That Conquering vvas all His Exercise</l>
+               <l>He vvent to practise there, for our defence,</l>
+               <l>Here He vvould use, not learn Experience.</l>
+               <l>Like Good Physitians, all at home being vvell</l>
+               <l>He strove exotique Poysons to expell</l>
+               <l>His shedding Bloud no Malice vvas, but skill;</l>
+               <l>'Tvvas one Act of His Charity, to kill,</l>
+            </lg>
+            <lg>
+               <l>No more <hi>Saint George for England,</hi> vve novv knovv</l>
+               <l>A Name of greater force, HORATIO.</l>
+               <l>Had you but seen Him all besmear'd vvith bloud</l>
+               <l>As if His Bodies inside, outward stood</l>
+               <pb facs="tcp:119694:6"/>
+               <l>Hovv He did boldly vvalke vvith sure steps, vvhen</l>
+               <l>The Earth was buried vvith unburied Men:</l>
+               <l>And had no more feare in His Face than One</l>
+               <l>That rides in Triumph vvhen the vvorld is Wonne.</l>
+               <l>Hovv he did march through Gore to th'Enemy</l>
+               <l>As if He vvent through Baths of Luxury.</l>
+               <l>To meet his Toyes, having no other light</l>
+               <l>But vvhat did sparkle from the svvord in fight;</l>
+               <l>And all this too for Strangers, vvhat could Hee</l>
+               <l>Have dar'd to set his Native Countrey free;</l>
+               <l>He that did thus for's Pleasure, would have done</l>
+               <l>Wonders indeed, had but his King look't on.</l>
+               <l>He that have fire to muskets there, for's ovvn</l>
+               <l>Realm, vvould have leap'd through Cannons to a Tovvn,</l>
+               <l>Should He have lead Army to a fight</l>
+               <l>The Sun again had stop'd to vievv the sight</l>
+               <l>More than Necessity, His Example had</l>
+               <l>Made Basenesse fierce, and Lethargy turn mad.</l>
+            </lg>
+            <lg>
+               <l>You that at <hi>Calis Sands</hi> vvill sooner fight</l>
+               <l>For the word Lye, or Whore than the Kings Right.</l>
+               <l>Who vvhen you go to Wars, take chiefest care</l>
+               <l>That yee be stor'd vvith povvder for your haire</l>
+               <pb facs="tcp:119694:6"/>
+               <l>That dresse your selves like those that Tempt and Wooe,</l>
+               <l>As if each <hi>Mars</hi> should be a <hi>Ʋeuus</hi> too.</l>
+               <l>And Ladies like black patches weare, no vvound</l>
+               <l>But vvhat came from the Curling-Iron there found</l>
+               <l>That complement, and out of modesty</l>
+               <l>Wo'nt dare to go to th' Front 'oth 'Enemy;</l>
+               <l>Wishing your Plumes made Wings, vvhen you should fight</l>
+               <l>Warring alone like <hi>Parthians</hi> by flight</l>
+               <l>Who if ye can fright children in the street,</l>
+               <l>And look avvay all Creditors ye meet</l>
+               <l>Stalke in the vapouring stride, vvearing Buffe Cloaths,</l>
+               <l>For vvhich you pay nothing but nevv coynd-Oaths,</l>
+               <l>Passe for try'd Captaines; knovv that <hi>Worthy</hi> VEERE</l>
+               <l>Could embrase dangers that you dare not heare:</l>
+               <l>Yet he nere fought for Mistrisse; 'Tvvas his care</l>
+               <l>To ranke his Souldiers rather than his hayre,</l>
+               <l>When he desired to read his vvounded face</l>
+               <l>That could check Tumults, his Svvord vvas his Glasse</l>
+               <l>His deeds, not vvords, did force the Peoples vvonder</l>
+               <l>Thus in the highest Region there's no thunder</l>
+               <l>He did not like <hi>Dull Mercuries</hi> only shevv</l>
+               <l>The vvay vvith's finger, but vvith His feet too,</l>
+               <pb facs="tcp:119694:7"/>
+               <l>And vvould have the first blovv, scorning to be</l>
+               <l>The chiefe in Place, and not in Drudgerie.</l>
+            </lg>
+            <lg>
+               <l>Yet did he never vveare Inchantments, like</l>
+               <l>Those that first put on Helmets, then bid strike.</l>
+               <l>'Tvvas He, and Truth, that could their Foes oppresse,</l>
+               <l>As <hi>Adam</hi> avve'd the Beasts vvith nakednesse.</l>
+               <l>He loath'd security, as much as Feare,</l>
+               <l>To give Wounds is lesse Glorious, than to beare</l>
+               <l>
+                  <hi>Lictors</hi> are valiant so, Lavvrels become</l>
+               <l>Their heads alone that suffer Martyrdome.</l>
+               <l>Though Age and Wounds had given him Writs of Ease,</l>
+               <l>Yet vvould he Halt, and Cravvle to th'Enemies,</l>
+               <l>And vvith lame Feete trample them dovvn, His hand</l>
+               <l>Made Myriads fall, then vvhen he could not stand.</l>
+               <l>Thus Weapons hack'd hurt more; and an old Wall</l>
+               <l>Conquers th'Invader even by its fall.</l>
+            </lg>
+            <lg>
+               <l>To speake him yet more Valiant, I must say</l>
+               <l>He vvas a Covvard, and vvould lose the Day,</l>
+               <l>When 'tvvas a sin to fight, Ill Victory</l>
+               <l>Being at the best but brave Iniquity.</l>
+               <l>'Tvvas the good Fight he fought, His Conscience</l>
+               <l>Not Fame, alone vvas His Intelligence,</l>
+               <pb facs="tcp:119694:7"/>
+               <l>He did not dravv to raise, but sheath up lars,</l>
+               <l>As 'tvvere the svvord of Iustice, not of Wars.</l>
+               <l>Nor vvas He rashly fierce at the Drums beat,</l>
+               <l>Who like the Sun had light vvith all his heat,</l>
+               <l>Though some mad Captaines think Religion,</l>
+               <l>A thing belonging only to the Govvn,</l>
+               <l>Langhing Devotion out o'th' Campe, and say</l>
+               <l>He's a dull foolish Covvard that does Pray,</l>
+               <l>Yet vvas <hi>He</hi> nere asham'd of Piety</l>
+               <l>Preferring that still before Victory.</l>
+               <l>Teares sav'd His Bloud, Faith did His Shield out last</l>
+               <l>His vvay to shun a famine vvas to fast.</l>
+               <l>Forts Altars vvere, Guns Censers, vvhence did rise</l>
+               <l>Incense, nor did He Kill, but Sacrifice.</l>
+               <l>His Svvord like that l'th' Doore of Paradice</l>
+               <l>Stood not to keep out Men alone, but Vice:</l>
+               <l>Each under His Command appear'd a Saint,</l>
+               <l>As if His Campe vvere the <hi>Church Militant,</hi>
+               </l>
+               <l>Angels His Trumpets blew, so 't might be thought</l>
+               <l>The <hi>Spaniards</hi> Gyants like 'gainst Heaven fought,</l>
+               <l>No drinking matches there: Their Temperance such</l>
+               <l>They liv'd a sober life amongst the <hi>Dutch</hi>
+               </l>
+               <pb facs="tcp:119694:8"/>
+               <l>They knevv't strong vveaknesse only, to beat back</l>
+               <l>The <hi>Spaniards</hi> Horse, and yeeld unto their Sack</l>
+            </lg>
+            <lg>
+               <l>Others may boast their care in that they knovv</l>
+               <l>Their Souldiers Names, He knevv their Nature too:</l>
+               <l>And in each Rank most busie did appeare,</l>
+               <l>He like the God of <hi>War</hi> vvas every vvhere</l>
+               <l>Compare some Routs, to his society,</l>
+               <l>Their Men vvant his Horses humanity.</l>
+               <l>While other Armies Thefts and Rapes professe,</l>
+               <l>Not robbing Cloaths alone, but Nakednesse.</l>
+               <l>Whose Pensions the High Way; and th' Neighbours be</l>
+               <l>Vex'd vvith their Guard, as much as Enemie.</l>
+               <l>His vvas all Honesty; The Countrey-Men</l>
+               <l>Lost not their Cock (though <hi>Mars</hi> his bird) nor Hen,</l>
+               <l>Vertues alone vvere there begot, they'd be</l>
+               <l>Fathers of Countries, not of Progeny.</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Jonas</hi> like he liv'd i'th' Iavves of Death</l>
+               <l>Oft dravving vvith his Ovvn, a Cannons breath</l>
+               <l>Yet nothing had or Will, or Povver to cease</l>
+               <l>On Him, but that <hi>Great Blessing length of dayes</hi>
+               </l>
+               <l>He, vvhom the <hi>Wars</hi> prefer'd in <hi>Peace</hi> did dye</l>
+               <l>Thus, thus to Fall, vvas a great Victory.</l>
+               <pb facs="tcp:119694:8"/>
+               <l>'Las 'tis no Wonder if our Cities Majors</l>
+               <l>Heape to their Treasury some silver Haires,</l>
+               <l>They like lean Oxen scarce deserve the Knife,</l>
+               <l>Who is't that envies Flies alonger Life!</l>
+               <l>Tis nothing to scape drowning on the shore;</l>
+               <l>But vvhen that Man doth hive, vvhose body bore</l>
+               <l>More <hi>Shafts</hi> than <hi>Sceva,</hi> or the Porcupine;</l>
+               <l>Whose thing vvas the Earths Vrne, and's Brest a mine</l>
+               <l>Of Lead, vve straight conclude that His Defence</l>
+               <l>Was the sole Hot and Svveat of Providence,</l>
+               <l>If maym'd and Aged Oakes are sacred, vvell</l>
+               <l>May vve maintaine, in Him a God did dvvell.</l>
+               <l>What but Divinity could so rule the Dart</l>
+               <l>That it should strike each Member, but the Heart.</l>
+               <l>His Foes (as Satan <hi>Job's)</hi> could's Body make</l>
+               <l>One perfect Sore, His Life they could not take.</l>
+            </lg>
+            <lg>
+               <l>But all these Praises are to scant and poore,</l>
+               <l>The malice of His Foes must needs say more</l>
+               <l>Armies of Statues build, for every stone</l>
+               <l>Other Graves have, exect a stately Tovvn</l>
+               <l>Instead of Alabaster Boys, ranke here</l>
+               <l>A Troop of Horse, a band of Foot-men there.</l>
+               <pb facs="tcp:119694:9"/>
+               <l>Then heape up Svvords and Bucklers, till vve see</l>
+               <l>His Monument, our greatest Armorie</l>
+               <l>After all this, 'tvvill be too meane a roome,</l>
+               <l>He more deserves a Temple than a Tombe.</l>
+            </lg>
+            <closer>
+               <signed>Richard West.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:9"/>
+            <head>On the death of the honourable HORATIO VEERE Baron, of <hi>Tylbury, &amp;c.</hi>
+            </head>
+            <lg>
+               <l>HOvv have you, wrong'd our VEERE to let Him lye,</l>
+               <l>So long interr'd vvithout an Elegie!</l>
+               <l>For though the choycest Artists you may use,</l>
+               <l>His Tombe is but halfe cut that vvants a <hi>Muse.</hi>
+               </l>
+               <l>
+                  <hi>Belgia</hi> can vvitnesse, if she e're did beare,</l>
+               <l>So stay'd a <hi>Guide,</hi> so fierce a <hi>Souldier;</hi>
+               </l>
+               <l>His fury like a God He did dispence,</l>
+               <l>And every blovv turn'd to a pestilence.</l>
+               <l>Yet vvith such skill His Conquests vvould foretell</l>
+               <l>That He convinc't and prov'd each miracle,</l>
+               <l>Thus as th' old <hi>Chaldees</hi> vvaiting on the Sun</l>
+               <l>From East to West, vvhen first his course begun,</l>
+               <l>And vvhen it fell, knevv hovv remote soe're</l>
+               <l>Strange Lands and Men, because the day vvas there:</l>
+               <pb facs="tcp:119694:10"/>
+               <l>So vvhere this mighty Planet cast his eye,</l>
+               <l>The Tovvn vvas then but a Discovery:</l>
+               <l>And should a generall feare the States benum</l>
+               <l>His influence had strength to overcom.</l>
+               <l>Nor did He one yeares Prodigy appeare,</l>
+               <l>But grevv a Star, and fil'd that Hemispeare;</l>
+               <l>His life vvas a full History of War,</l>
+               <l>And every Act a <hi>Worthie's</hi> Character.</l>
+               <l>None could His dayes by Months, or Seasons frame,</l>
+               <l>Dangers vvere all His Spring, His Harvest Fame.</l>
+               <l>Attend a greater Wonder! bring me one</l>
+               <l>An Hero too in His Religion:</l>
+               <l>One so devout, that vvhen His just decree</l>
+               <l>Beates dovvn the Foe, an Angell strickes not Hee:</l>
+               <l>One so precise and valiant, vve may svveare</l>
+               <l>The Leader Priest, then vvill I call him VEERE.</l>
+            </lg>
+            <closer>
+               <signed>H. R.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:10"/>
+            <head>A Dialogue betvvixt ALEXIS and DAMON, on the death of the Lord VEERE.</head>
+            <sp>
+               <speaker>ALE.</speaker>
+               <l>Farevvell to all my Flocks, farevvell to all,</l>
+               <l>One sad farevvell to my deare <hi>Cloes</hi> call,</l>
+               <l>And then I've done. <hi>Da.</hi> Fie young <hi>Alexis,</hi> fie!</l>
+               <l>'Tis not they love, but feare thou hast to dye</l>
+               <l>That thus detaines thee, see yo'nde troupe of Svvaines</l>
+               <l>Are mustered up from out the Neighbouring plaines,</l>
+               <l>Our great God <hi>Pan</hi> has said it, 'tis decreed</l>
+               <l>Each jolly Lad shall break his Pipe and reed;</l>
+               <pb facs="tcp:119694:11"/>
+               <l>There's in exchange a better musicke found</l>
+               <l>The noyse o'th' Drum, and the shirll Trumpets sound:</l>
+               <l>Each one must quit his wonted Shephcadrs Gray,</l>
+               <l>And clad in Iron now fetch in the May.</l>
+            </sp>
+            <sp>
+               <speaker>Al.</speaker>
+               <l>I've done, But who is he that now must guide</l>
+               <l>Our hands, to whom swords yet have been deny'd.</l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>Great <hi>Pan</hi> takes care of that: 'Tis he that can,</l>
+               <l>Give strength and Art to the unpractis'd Man.</l>
+            </sp>
+            <sp>
+               <speaker>Al.</speaker>
+               <l>But Father, I have heard you lately tell,</l>
+               <l>Of Wars that in your younger time befell,</l>
+               <l>Had we but him that did in them Command,</l>
+               <l>We'd dare against the sturdiest Foe to stand.</l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>The great Lord VEERE thou meanst? <hi>Al.</hi> I, sure that's He</l>
+               <l>Me thinks the Name it selfe doth testifie.</l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>It does indeed my Son, It is a Name</l>
+               <l>That needs no Verse to 'advance or crown His Fame,</l>
+               <l>And only lesse than he Himselfe it stands</l>
+               <l>I'th'Campe with <hi>Mars,</hi> and equally Commands.</l>
+               <l>This Man its worthy'st Master did inherit</l>
+               <l>A soule beyond the greatest <hi>Roman</hi> spirit.</l>
+               <l>O, I could tell you Wonders! This was He</l>
+               <l>Whose very looke commanded Victory:</l>
+               <pb facs="tcp:119694:11"/>
+               <l>My selfe have seen Him midst the Foes to stand</l>
+               <l>Cutting what threads he pleas'd with his own hand.</l>
+               <l>Not unlike Fate it selfe, whiles every blow</l>
+               <l>Provok'd, and overcame the stoutest Foe.</l>
+               <l>But this He did a Youth; when He was grown</l>
+               <l>To perfect man, He scarce could seeme to owne</l>
+               <l>Such deeds as these: That which He did before,</l>
+               <l>Was well, but then He doubled it, and more.</l>
+               <l>That heat which warm'd His Arme before, and bred</l>
+               <l>Such wonders there, was Active too in's head,</l>
+               <l>Which made Him strong, and able to subdue</l>
+               <l>Not Men alone, but their affections too.</l>
+               <l>Thus a continuall Conqueror He stood,</l>
+               <l>Not only stout, but resolutely good,</l>
+               <l>And to Himselfe being fixt, and constant still,</l>
+               <l>He was not mov'd, although besieg'd with Ill;</l>
+               <l>But He alas is long since dead, and we</l>
+               <l>Have nothing left us but His Memory</l>
+               <l>To honour which, this short time I've to live</l>
+               <l>In spight of my gray haires, I'le freely give.</l>
+            </sp>
+            <sp>
+               <speaker>Al.</speaker>
+               <l>And I, if that these broyles I do survive</l>
+               <l>In prayse of Him, will yearly Feasts contrive:</l>
+               <pb facs="tcp:119694:12"/>
+               <l>But if (deny'd by the Fates) I chance to fall,</l>
+               <l>I'le order't so, that my deare <hi>Cloe</hi> shall.</l>
+            </sp>
+            <closer>
+               <signed>H. Benet.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:12"/>
+            <head>These consecrated to the per<g ref="char:EOLhyphen"/>petuall Memory of Sir HORATIO VEERE, Generall of the <hi>English,</hi> Baron of <hi>Tilbury, &amp;c.</hi>
+            </head>
+            <lg>
+               <l>CAnnot the Drum toule, and ring out? The Bell</l>
+               <l>Is a too peacefull sound to speake His Knell;</l>
+               <l>To weep were a disparagement: This Vrne</l>
+               <l>Expects that you should rage, rather than mourne</l>
+               <l>Those Obsequies befit a Souldier, That</l>
+               <l>Storme, not bewaile, that rave, not pine at Fate:</l>
+               <l>Yet had our Worthy <hi>HEROE</hi> perish'd in</l>
+               <l>The Canons fury, I had patient bin,</l>
+               <l>And only tore my hayre, or groan'd; but thus</l>
+               <l>To see Him drop away like one of us,</l>
+               <l>Alderman like dissolv'd into His Dust,</l>
+               <l>Whoever is not frantick, is not Iust.</l>
+            </lg>
+            <lg>
+               <l>Is it this then our City Tribes call Peace</l>
+               <l>That forbids Guns, and Slaughters with Disease?</l>
+               <pb facs="tcp:119694:13"/>
+               <l>Whose sole Innocence is that it destroyes</l>
+               <l>Vnheard, and can massacre vvithout noyse?</l>
+               <l>Thus vvhilst Syrenes glitter like Sun-shine, they</l>
+               <l>Accept a lasting flash for a faire day:</l>
+               <l>Avvay vvith this counterfeit Calme, I see</l>
+               <l>There is no peace but Immortality:</l>
+               <l>The same houre feasts and kils, vvho can beware</l>
+               <l>Of such as smile and murther us? Wel-fare</l>
+               <l>Plaine-dealing fire, and sword, that vvhen they stay</l>
+               <l>Demand a life, and not thus steale't avvay;</l>
+               <l>Yet War hath this Art too; thus the stout Wall</l>
+               <l>That out-brav'd Cannons, by a Mine doth fall.</l>
+            </lg>
+            <lg>
+               <l>Here lyes a loyall Souldier, vvho vvas 'ere</l>
+               <l>Disloyall, or no Souldier, vvas no VEERE.</l>
+               <l>No VEERE yet ever durst thinke it a right</l>
+               <l>And just plea to Rebell, cause He durst fight:</l>
+               <l>Would vve all vvere this Family: there's fevv</l>
+               <l>That dare so much, and dare so little too.</l>
+            </lg>
+            <lg>
+               <l>Here lyes a devout Souldier, Yet n'ere one</l>
+               <l>That mutined to prove's Religion:</l>
+               <l>Nor vvas He of that Crevv, vvhose Captaine-ships</l>
+               <l>Conust in a big voyce, and bristled lips.</l>
+               <pb facs="tcp:119694:13"/>
+               <l>That thumpe the board, and roare out Oaths so large</l>
+               <l>You'd think they did not discourse, but discharge?</l>
+               <l>That damne, and rashly tilt at every breast</l>
+               <l>They Ken, these are not valiant, but possest.</l>
+               <l>The best of His Artillery vvas prayer,</l>
+               <l>Nor did He kill, but vvhere 'tvvas sin to spare.</l>
+            </lg>
+            <lg>
+               <l>Hovv oft vve do divine? Thus Seers of old</l>
+               <l>(They say) could seldom their ovvn Savves unfold:</l>
+               <l>'Tis no hard matter to prognosticate,</l>
+               <l>We can fore-tell too, not understand Fate.</l>
+               <l>They vvho this day desir'd VEERE'S Company</l>
+               <l>Did not so much invite, as Prophesy;</l>
+               <l>The Cates vvere not a Feast, but Type, and vvill'd</l>
+               <l>Not to be fed on, but to be fulfill'd.</l>
+               <l>Such plenty fitly shaddovved forth the store</l>
+               <l>Of that blest place, vvhere He n'ere hungers more.</l>
+            </lg>
+            <lg>
+               <l>But sure vve do mistake, nor is He gone</l>
+               <l>To His rest, but on an Expedition,</l>
+               <l>Yo'n place of peace, Heaven also hath its Wars,</l>
+               <l>And VEERE is chosen Generall of those Stars</l>
+               <l>That must in order 'gainst some <hi>Sisera</hi> fight</l>
+               <l>And put some <hi>Beliall</hi> multitude to flight,</l>
+               <pb facs="tcp:119694:14"/>
+               <l>We much mistearm'd our late unhappinesse</l>
+               <l>The Plague; it vvas no pestilence but a presse:</l>
+               <l>Our people dyed not, but march't hence, and are</l>
+               <l>The present forces of this <hi>Holy War,</hi>
+               </l>
+               <l>Legions that serve under our VEER: let none</l>
+               <l>Miscall that then His funerall Scutchion</l>
+               <l>Which is His Banner; nor y'on Momument</l>
+               <l>His Tombe (ominous syllable) 'tis His Tent:</l>
+            </lg>
+            <closer>
+               <signed>Richard Painter.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:14"/>
+            <head>On the ever Honored Generall, Sir HORATIO VEERE, Baron of <hi>Tylbury,</hi> &amp;c.</head>
+            <lg>
+               <l>HORATIO VEERE, that vvas the name strock death</l>
+               <l>Into a Palsey, toyl'd Him out of breath!</l>
+               <l>When but pronounc't, bals vvith sulphureous fires</l>
+               <l>Wing'd and vvith musick from His martiall quires</l>
+               <l>Sent of, conveyed HORATIO VEERE</l>
+               <l>Aloud, but stroke the hearer dead vvith feare;</l>
+               <l>His was a pious Valour, He could pray</l>
+               <l>And sight, not for His Life, but for the day.</l>
+               <pb facs="tcp:119694:15"/>
+               <l>It vvas His glory that the Sun should fall</l>
+               <l>With His opposers, and their funerall</l>
+               <l>Be mourn'd by night alone, and vvhen that Lampe</l>
+               <l>Did rise and shine again, that from His Campe</l>
+               <l>He might behold the recking of their Gore</l>
+               <l>Exhale, and like thick clouds of bloud hang o're</l>
+               <l>Their broaken Regiments, portending nought</l>
+               <l>But ruine as gainst Heaven they had fought.</l>
+               <l>Live <hi>Newport</hi> in His fame, and may thy Tovvers</l>
+               <l>Flourish the Trophees of His svvord and povvers.</l>
+               <l>They vvon thee hardly, for when almost spent,</l>
+               <l>HORATIO hop't no other monument</l>
+               <l>To raise His Memory <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto the World,</l>
+               <l>Then slaughtered Piles of His ovvn forces, hurld</l>
+               <l>By th'accidentall reele of War, rebounds</l>
+               <l>Like lightening on His Foe, and deeper vvounds.</l>
+               <l>And novv the day is VEERE's, for in the field</l>
+               <l>Death durst not meet Him, cause 'a vvould not yeeld.</l>
+               <l>But the grim Traytor fees a poore disease,</l>
+               <l>That it selfe shooke with feare t'approach, or cease</l>
+               <l>So high a Spirit, to conspire with Age</l>
+               <l>And vvearied Nature, how to cleare the Stage</l>
+               <pb facs="tcp:119694:15"/>
+               <l>Of this <hi>Tragedian;</hi> He whose arme hath movv'd</l>
+               <l>More than the pale mans sythe, is now bestovv'd</l>
+               <l>'Mongst the insulting vvormes, vvith His flesh feed</l>
+               <l>They'l justly sympathize, and 'gainst the tread</l>
+               <l>Shall crush them, turn again, as they should say</l>
+               <l>We are VEERE's wormes, there's Valour in His Clay.</l>
+            </lg>
+            <closer>
+               <signed>Hen. Harris.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:16"/>
+            <head>Vpon the Death of the Ho<g ref="char:EOLhyphen"/>nourable and most Heroick Sir HORATIO VEERE, Baron of <hi>Tilhury,</hi> Generall of the <hi>English</hi> Regiments in the Vnited Provinces, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>THough at thy Name <hi>Great</hi> VEERE, even Poets fight,</l>
+               <l>And Act those battles, they first meant to write;</l>
+               <l>Dare talke of Guns vvithout an Agnes fit,</l>
+               <l>Make svvords the scope, and sharpnesse of their Wit;</l>
+               <l>Beleager all their Muses, and not tell</l>
+               <l>But muster up thy vvhole Acts Chronicle;</l>
+               <l>Do all in Tearmes of War; So that vve meet</l>
+               <l>Tovvns sackt, and Cities taken in one sheet;</l>
+               <l>All these are but Griefes Policy, to shevv</l>
+               <l>Thy Death can make their sorrovvs valiant too:</l>
+               <l>And being th'are so, a part of Thee expresse,</l>
+               <l>Who e're is like thee, seems to vvant Thee lesse:</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:119694:16"/>
+               <l>But vvho is left to be so! is there novv</l>
+               <l>A conquering Name that may succeed as Thou</l>
+               <l>Didst thy fam'd Brother! (nay vve'l give Him more)</l>
+               <l>That may excell; as thou didst Him before:</l>
+               <l>For where such spirits meet that All are best</l>
+               <l>Tis equall Glory to be thought the least.</l>
+            </lg>
+            <lg>
+               <l>Yet He must be a Man vvhose budding Fame</l>
+               <l>Can fright an Army, vvhose halfe-spoken Name</l>
+               <l>Beats dovvn vvhole Tovvns and Bulvvarks: hath been heard</l>
+               <l>Lovvder than Cannon-shot, and surer fear'd:</l>
+               <l>One that's made up by Transmigration,</l>
+               <l>Of more than the <hi>Nine-Worthies</hi> into One</l>
+               <l>And beares a Troope of soules; that vve may say,</l>
+               <l>Himselfe's an Army, though His Men b'avvay;</l>
+               <l>When more than this is added, bring That He</l>
+               <l>Which hath more Yet, or else he's lesse than Thee:</l>
+               <l>And why all These? 'tvvill be enough to be</l>
+               <l>Lesse than the least to knovv he's short of Thee;</l>
+               <l>Let him be first a VEERE; his Armies All;</l>
+               <l>As vvell their Spirit, as their Generall:</l>
+               <l>Infuse them vvith his ovvn true Valour, and</l>
+               <l>Teach't by Example; Act his ovvn Command;</l>
+               <pb facs="tcp:119694:17"/>
+               <l>Let his ovvn Name the vvhole <hi>Corantoes</hi> fill,</l>
+               <l>And make them be tvvice printed, let it still</l>
+               <l>Come fresh into <hi>Paules walkes,</hi> to them vvhich doo</l>
+               <l>Digest each meale vvith Nevves, be somes, meale too:</l>
+               <l>Have such a soule from vvhich vve'd easily take</l>
+               <l>Troops of Commanders; each stout look to make</l>
+               <l>A Captaine; vvhat brave vvord soever fell</l>
+               <l>Out of his mouth create a Colonell</l>
+               <l>When all these heapes of Valour do agree,</l>
+               <l>To forme one Man again, That Man is Thee.</l>
+            </lg>
+            <lg>
+               <l>But let him dye like Thee too, Fate begun</l>
+               <l>His envy long before; Thy Death alone.</l>
+               <l>Styl'd him full Victor: 'tvvas some Craft to have</l>
+               <l>Part of Thy body in a Living Grave;</l>
+               <l>To make Thee feele th'increase of death; and be</l>
+               <l>Thy selfe a Part in Thine ovvn Tragoedy:</l>
+               <l>Witnesse that Earth to Earth vvhich in Thy Thigh</l>
+               <l>Forc'd by a Bullet buried there did lye;</l>
+               <l>And Thou didst Live a Corpse, not to be kill'd</l>
+               <l>At last by Thy loose Palscy, but Full-fill'd;</l>
+               <l>Like some Great Prophesie, vvhose End comes slovv</l>
+               <l>And sure, though 'twas begun the Age agoe:</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:119694:17"/>
+               <l>We Challenge Thy first death: this vvas too lovv</l>
+               <l>An Home disease for Thy Great Overthrovv;</l>
+               <l>Even feeble in it selfe, far from the Povver</l>
+               <l>Of being such a Victors Conquerour,</l>
+               <l>And might in some vveake Alderman have been</l>
+               <l>A serious thought, the Nods good Iudgement seeme:</l>
+            </lg>
+            <lg>
+               <l>'Tis flat against our Faith to thinke Thy bold</l>
+               <l>And vigorous breast could ever suffer Cold,</l>
+               <l>Or any shaking; no not even the fall</l>
+               <l>Of a Town Vndermin'd, or Blovvn up Wall</l>
+               <l>When th'Earth and Ayre affrighted in those parts</l>
+               <l>Suffer one Palsey vvith the Tovvnsmens hearts.</l>
+            </lg>
+            <lg>
+               <l>Yet since this is Thy Period, and in Thee</l>
+               <l>Two Nations Valours at once shaken bee</l>
+               <l>The <hi>States</hi> and <hi>Englands;</hi> Yet our Fates are crosse</l>
+               <l>Since vve may Boast, vvhen they shall feele Thy losse.</l>
+            </lg>
+            <closer>
+               <signed>Richard Godfrey.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:18"/>
+            <head>An Elegy on the Dead of Sir HORATIO VEERE, Lord Baron of <hi>Tilbury,</hi> M<seg rend="sup">r</seg> of the Ord<g ref="char:EOLhyphen"/>nance in England, and Generall o're the <hi>English</hi> forces in the Vnited Provinces.</head>
+            <lg>
+               <l>HAd not the Triumphs that attended Thee</l>
+               <l>When death proclaim'd Thy Immortality,</l>
+               <l>Borne vvitnesse of Thy Fate, I should ha' thought</l>
+               <l>Thy Enemies in policy had wrought</l>
+               <l>A fiction for Thy Death, for that alone</l>
+               <l>(They knew) could vvorke their Foes confusion:</l>
+               <l>Who then must fall to ruine, vvhen at once</l>
+               <l>They lost in Thee the strength of every Sconce.</l>
+               <l>Thou vvert all Frontiers to the <hi>States,</hi> and vvee</l>
+               <l>Did yeeld them <hi>Brill</hi> and <hi>Flushing</hi> sending Thee.</l>
+               <l>So dread full vvas great VEERE, so loud His Fame,</l>
+               <l>That absent, they might conquer by His Name.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:119694:18"/>
+               <l>He gave them rich Excise, his spoyles brought in,</l>
+               <l>Pay for the nevv designe of the next Spring;</l>
+               <l>Prevented all their Taxes, that their doubt</l>
+               <l>And Counsell vvholy vvas vvhere to lay out.</l>
+               <l>Which Tovvn, vvhat City next should feele and beare</l>
+               <l>The vvealth o'th' last, and be its Sepulcher.</l>
+            </lg>
+            <lg>
+               <l>Hovv could he choose but conquer, vvhen that He</l>
+               <l>Mixt vvith His povvder, Incense, Piety</l>
+               <l>Gave fire; His Hoast vvas cleane, and vvhose're</l>
+               <l>Did sound His Trumpe, vvas first an Angell rhere.</l>
+               <l>'S Example purg'd the Campe, His Troops that durst</l>
+               <l>Subdue the Cloysters, durst live purer first:</l>
+               <l>You that succeed and vvould 'ore come like Him,</l>
+               <l>Religion Learn, this vvas VEERE's stratagem.</l>
+            </lg>
+            <closer>
+               <signed>John Borough:</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:19"/>
+            <head>TO THE MEMORY OF the Right Honourable HORATIO VEERE, Baron of <hi>Tilbury.</hi>
+            </head>
+            <lg>
+               <l>THis distance does become us, who can write</l>
+               <l>A lyne worthy great VEERE, although he might</l>
+               <l>Have Ages graunted? they on whose slighted hearse</l>
+               <l>Some Poet hyr'd quickly howles out a verse</l>
+               <l>Dye with their <hi>Elegies;</hi> An Age we see</l>
+               <l>Is almost gon, more than the memory</l>
+               <l>Of others Pasts, ere we dare venter forth</l>
+               <l>To celebrate His full and perfect worth.</l>
+               <l>So let's go on still: Let not our zeale out-scan</l>
+               <l>Due Reverence, first Adoration done</l>
+               <l>To His blest Ashes; kissing the cold earth thrice,</l>
+               <l>And thrice three times the Marble, with advice</l>
+               <pb facs="tcp:119694:19"/>
+               <l>Pronounce we great HORATIO, not as we do,</l>
+               <l>Some petty <hi>Hero,</hi> with a sigh or two,</l>
+               <l>But as we do the Thunderer: we now</l>
+               <l>Sing not an Elegy, but pay a vow</l>
+               <l>In a Commemorative Sacrifice</l>
+               <l>To Him long since amongst the Dieties.</l>
+               <l>Nor do we here our wits and fancies try,</l>
+               <l>'Tis a devout and holy Extafy.</l>
+               <l>We offer Hymnes, such as in dayes of old</l>
+               <l>Religious Matrons, and Chast Virgins told</l>
+               <l>In pious numbers of great <hi>Hectors</hi> fame,</l>
+               <l>Of <hi>Jove,</hi> of <hi>Mars,</hi> and of <hi>Alcides</hi> name:</l>
+               <l>So sing we His, but with a zeale as far</l>
+               <l>Beyond those cold ones, as he the God of War,</l>
+               <l>Or greater <hi>Jove</hi> exceld, whose very look,</l>
+               <l>Vanquisht his foes, as if by <hi>Thunder</hi> strook.</l>
+               <l>Thay can best tell His Acts, had we but been</l>
+               <l>Amidst their Troops, and felt as well as well as seen</l>
+               <l>Those vigorous Armes, that breast, those eyes of fire,</l>
+               <l>And at each frown our selves ready t'expire,</l>
+               <l>Feare would have made us Poets, and each fright</l>
+               <l>In bloud would His Fame and our Dirges writ:</l>
+               <pb facs="tcp:119694:20"/>
+               <l>We should have sworn Him an united band</l>
+               <l>And all the Gods muster'd up in His hand.</l>
+               <l>Yet Conquest puft Him not, nor did the flood</l>
+               <l>Which His Arme spilt, make Him delight in blood,</l>
+               <l>He was all peace, the tender harted mayd,</l>
+               <l>And Ages Syre whom Wars name makes afrayd,</l>
+               <l>Are not more milde, had His devotion been</l>
+               <l>Crown'd with a Miter, in a Surplice seen,</l>
+               <l>He had been Sainted; He to th' Church would be</l>
+               <l>Epitoniz'd <hi>Primitive Sanctity.</hi>
+               </l>
+               <l>If by an <hi>Hierogliphick</hi> 'twere exprest,</l>
+               <l>Religion should be in His Picture drest.</l>
+               <l>No Hermit whom his zeale transformeth soe</l>
+               <l>That to the Altars Marble fixt He grow,</l>
+               <l>Is holyer, By Him a Regiment</l>
+               <l>Turnes to a Quire, a Church what was a Tent.</l>
+               <l>Preachers in Armes, and this He learnes from thence</l>
+               <l>To Heaven too, to offer violence.</l>
+               <l>Talke not of Him who Iust, Great, Holy writes</l>
+               <l>To severall men divided pethites,</l>
+               <l>
+                  <hi>Hector</hi> was valiant, <hi>Ʋlisses</hi> wise,</l>
+               <l>And <hi>Numa</hi> first Religion did divise.</l>
+               <pb facs="tcp:119694:20"/>
+               <l>These all lackt some thing of Perfection,</l>
+               <l>Something was still behind, who knowes but one,</l>
+               <l>And still Learne is a Child; <hi>who all things can</hi>
+               </l>
+               <l>
+                  <hi>In full perfection only is a Man.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>Tho. Isham.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:21"/>
+            <head>On the death of Sir HORATIO VEERE, the right Valiant and brave Commander Lord Baron of <hi>Tylbury,</hi> &amp;c.</head>
+            <lg>
+               <l>THy Name (great VEERE) can valour now inspire,</l>
+               <l>Which once did feare infuse, and raise us higher;</l>
+               <l>Incite our thoughts, not able to declare</l>
+               <l>Thy Merits ample, as their Actions were.</l>
+            </lg>
+            <lg>
+               <l>Religion was thy Banner, Faith thy Shield</l>
+               <l>Thou taught'st couragious Piety to weild</l>
+               <l>A Conquerors sword, thy Tents seem'd all to be</l>
+               <l>Made Sanctuaries with thy Purity.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:119694:21"/>
+               <l>Thy lamenesse was the strength of weaker <hi>States,</hi>
+               </l>
+               <l>This thy Foes heard as Master of their Fates,</l>
+               <l>Which thou rul'st at thy will, <hi>Joves</hi> great decree</l>
+               <l>Thy sword, did act their truest Destiny.</l>
+               <l>Lame VEERE forsook not War, but rather us'd</l>
+               <l>Than His Commanders staffe, and only chus'd</l>
+               <l>His Muskets rest, armes VEERE'S weaknesse sought, He</l>
+               <l>Only seem'd lame, because he could not fly.</l>
+            </lg>
+            <lg>
+               <l>The Romish bastard Eagles durst not eye,</l>
+               <l>This glorious Sun <hi>Spaine</hi> seemed but to try</l>
+               <l>His valarous soule that she to th'World might boast</l>
+               <l>She VEERE withstood, and proud. because the lost</l>
+               <l>
+                  <hi>Romans</hi> themselves weare titles from that place,</l>
+               <l>Which they had spoyl'd, but VEERE hath greater grace</l>
+               <l>Cities assume from Him a noble Name,</l>
+               <l>And being sack't a greater glory claime.</l>
+            </lg>
+            <lg>
+               <l>Fate durst not once assault This <hi>Hero</hi> arm'd,</l>
+               <l>Her powerfull hand, the feare of's strength had charm'd</l>
+               <l>Death, justly now look's pale, amaz'd to see</l>
+               <l>Her selfe o're sway'd by His Mortality.</l>
+               <l>No strength against this Foe she knew prevail'd,</l>
+               <l>Therefore with policy she Him assailed,</l>
+               <pb facs="tcp:119694:22"/>
+               <l>Whilst on His quiet Couch at rest He lay,</l>
+               <l>At unawarres she forc't His soule away.</l>
+               <l>No Foc can boast VEERE'S death by fatall power</l>
+               <l>Alone subdu'de, He dyed a Conqueror.</l>
+            </lg>
+            <closer>
+               <signed>Wil. Snow.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:22"/>
+            <head>On the Death of the Honou<g ref="char:EOLhyphen"/>rable Sir HORATIO VEERE, Baron of <hi>Tilbury.</hi>
+            </head>
+            <lg>
+               <l>OVr eyes submit Teares like thy Captives bow,</l>
+               <l>Thy force o'recame before, Thy ruine now:</l>
+               <l>Thus old expiring Oakes crush and Create</l>
+               <l>Fame from their fall, and Triumphs from their Fate:</l>
+               <l>The courage was not Choler heere, the flame</l>
+               <l>Not from Complexion, but from Vertue came.</l>
+               <l>Valour's not borne of Nature, but the will,</l>
+               <l>They only conquer that with Iudgement kill.</l>
+               <l>The fire subdues the Ayre, yet his proud Rayes</l>
+               <l>Still without Trophies win still without bayes.</l>
+               <l>The Mind, not the tough flesh was His defence,</l>
+               <l>He lost the feare of wounds, but not the Sense,</l>
+               <pb facs="tcp:119694:23"/>
+               <l>That were t'have been some Engine and a stroak</l>
+               <l>Had prov'd Him a burst Iaveline, or sword broak;</l>
+               <l>His scarrs had then been Cracks, and every blow</l>
+               <l>Had hurt the Weapon, Statues conquer so.</l>
+               <l>No such resistance heere, the veines were known</l>
+               <l>Noble, and cleare as Saphires, yet not stone.</l>
+               <l>The Wars were not His plot, He did not eat</l>
+               <l>By the sword and wounds, and skirmish for His meat.</l>
+               <l>He could be stout in peace, and the same Ray</l>
+               <l>Threw lightning in the field, in the Court day.</l>
+               <l>Eagles are Eagles though no Foe appeare,</l>
+               <l>Good perfumes, though unchaf'd sweet Incense reare.</l>
+            </lg>
+            <lg>
+               <l>No Conquest made Him swell, an equall brow</l>
+               <l>Sustain'd the Lawrell, and the Cypresse bough:</l>
+               <l>The same Calme view'd Retreates and Victories;</l>
+               <l>One compos'd sense heard shoutes, and Elegies.</l>
+            </lg>
+            <lg>
+               <l>Weake spirits count their going back a doome,</l>
+               <l>And if they but retire, are straight o'recome.</l>
+               <l>Those Iewels cast a faint and drowsy light,</l>
+               <l>Which 'cause they are once sullied, are lesse bright:</l>
+               <l>The current stopt grew greater here, and He,</l>
+               <l>That did retyre a streame, return'd a Sea.</l>
+               <pb facs="tcp:119694:23"/>
+               <l>No rudenesse made the publick shares more thin,</l>
+               <l>Spoiles were His purchase only, ne're His sin,</l>
+               <l>Norich Foe made Him glad, no needy pause,</l>
+               <l>He fought not 'gainst the booty, but the cause:</l>
+               <l>He punisht Cities, pass'd no Village by,</l>
+               <l>The just heat scorcht the Phoenix with the Fly.</l>
+            </lg>
+            <lg>
+               <l>And having now subdude the <hi>Spamsh</hi> pride,</l>
+               <l>He saw no Foe could kill Him, and so dy'd.</l>
+            </lg>
+            <closer>
+               <signed>M. Lewellin.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:24"/>
+            <head>On the Death of the right Valiant Sir HORATIO VEERE, Baron of <hi>Tilbury.</hi>
+            </head>
+            <lg>
+               <l>AWay ye prouder Cowards that recite</l>
+               <l>Your stem from Ancestors, but not your Right,</l>
+               <l>And do as sure not merit th'Armes You beare,</l>
+               <l>As if Cowardise part of Gentry were;</l>
+               <l>Here'<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one that by His Valour shew'd His Crest,</l>
+               <l>And with His sword blazon'd His Armes I'th' breast</l>
+               <l>Of's Enemies; And whosoever came</l>
+               <l>Opposer to Him, 's made Trophv to His Name.</l>
+               <l>
+                  <hi>Spaines</hi> forces I disprayse not, 'twas no shame,</l>
+               <l>That He your greater number over came:</l>
+               <l>Himselfe an Army was, in <hi>Ostends</hi> right</l>
+               <l>They fought 'gainst ods, that against Him did fight</l>
+               <l>What cruell Law of Nature is't? that thus</l>
+               <l>Condemnes to perils the Couragious?</l>
+               <pb facs="tcp:119694:24"/>
+               <l>That fortitude we no where find, unlesse</l>
+               <l>We find it be in danger and distresse.</l>
+               <l>We hazard still our nob lest minds, and all</l>
+               <l>We can is t'adorne <hi>Vertues</hi> funerall.</l>
+               <l>He now lives short that's good: our vertues sure</l>
+               <l>Are <hi>Blasing-stars</hi> or <hi>Commets,</hi> that endure</l>
+               <l>But their own ruine to foretell, and be</l>
+               <l>To'us Wonder, to themselves a Prodigy:</l>
+            </lg>
+            <lg>
+               <l>Nor must I here leave off it were a Lye</l>
+               <l>To name His <hi>Valour</hi> and not's <hi>Piety.</hi>
+               </l>
+               <l>They still conjoyned were, there you might see</l>
+               <l>
+                  <hi>Vertue</hi> from any foule repulse was free.</l>
+               <l>It is no <hi>Solaecisme</hi> now to call</l>
+               <l>A Souldier Pious, nor is't now at all</l>
+               <l>Vntrue, it may be credible to say</l>
+               <l>'Twas not the Souldiers Liquor won the day;</l>
+               <l>Even in the Wars He was a Magistrate.</l>
+               <l>And did proportion to th' offence, the Fate;</l>
+               <l>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th' field us'd such authority; They were</l>
+               <l>VEERE's Subjects, All that did rebell 'gainst VEERE,</l>
+               <l>
+                  <hi>Religion's</hi> Enemies, were His, and who</l>
+               <l>Did 'gainst Him fight, did 'gainst Religion too.</l>
+               <pb facs="tcp:119694:25"/>
+               <l>He drew against her Enemies, and then</l>
+               <l>Did with His sword correct their vicious pen.</l>
+               <l>Not <hi>Mars</hi>'s now, Fame's Trumpet sounds our VEERE</l>
+               <l>'Twas He that made the Church triumphant here.</l>
+            </lg>
+            <closer>
+               <signed>Tho. Severne.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:25"/>
+            <head>On the Puissant and Gallant Commander the Lord HORATIO VEERE, Generall of the <hi>English</hi> in the Vnited Provinces.</head>
+            <lg>
+               <l>LOoke to Thy selfe Renowned VEERE, for though</l>
+               <l>'Tis said th'art sick o'th'Palsey, I say, No:</l>
+               <l>Safely collecting when I trembling see</l>
+               <l>'Tis not so much disease, as Enemy.</l>
+               <l>Who in so soft and silent pace did steale</l>
+               <l>Vpon health's Fort, escap'd all Centinell:</l>
+               <l>He? That's a single one when our VEERE's Ghost</l>
+               <l>Cannot be dispossess'd but by an Host.</l>
+               <l>Mischiefes must band, and still dispaire of Him</l>
+               <l>Vntill they fly to secret Stratagem.</l>
+               <l>So His Heroique Spirit might be o're seene,</l>
+               <l>To prove Him Man; o'recome had never been:</l>
+               <pb facs="tcp:119694:26"/>
+               <l>VEERE? Even the Name such heat and prowesse shewes</l>
+               <l>It ceases to be That and Title growes.</l>
+               <l>And yet what e're the piercingst Iudgment can</l>
+               <l>Find in the Name, was tripled in the Man.</l>
+               <l>Sounds it Religion, God, or Goodnesse? He</l>
+               <l>Was then the Priest, and that the Mystery,</l>
+               <l>Whose knee before that God and Heaven, sincere</l>
+               <l>Devotion dayly bent, but never Feare,</l>
+               <l>That servile sensuall passion, His free soule</l>
+               <l>Had cleare dismils'd, but did it's Name enroule</l>
+               <l>Amongst His vertues, as Schoole Divines do</l>
+               <l>With Hope, giving that a Names-sake virtue too.</l>
+               <l>So far between Himselfe and Heaven, but now</l>
+               <l>Shall we enquire after His valour, how</l>
+               <l>It sprung, grew up, spread through the World, I call</l>
+               <l>The same to witnesse it, charging That All</l>
+               <l>To bring true vidence in, then to review</l>
+               <l>Her ancient Records, and observe where true,</l>
+               <l>Nobly-descended, Loyall, Puissant, Deare</l>
+               <l>To all that's Good, the substantive was VEERE;</l>
+               <l>At the have mention of which Name you have</l>
+               <l>Heard eve'n th' unletter'd Peasant strait add brave,</l>
+               <pb facs="tcp:119694:26"/>
+               <l>Whose minds being too base't be Perill-proofe,</l>
+               <l>By reckoning <hi>Him,</hi> think the Land safe enough:</l>
+               <l>To which I had inclin'd, had not I known</l>
+               <l>He bore His Foe about Him, and did own</l>
+               <l>That treacherous Flesh, which vow'd He death should see</l>
+               <l>Though Himselfe maym'd, though Himselfe wounded be.</l>
+               <l>Oh! that That Vow was kept! Have I not seen</l>
+               <l>The troubled Fountaine cleare it selfe again,</l>
+               <l>Weeping the filth out with a kind of shame,</l>
+               <l>And blushing till her pristine silver came?</l>
+               <l>So should thy purer bloud rise up, boyle on,</l>
+               <l>And in disdaine work out the Infection.</l>
+               <l>
+                  <hi>Dicta<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> can all Shaft, or Speare expell,</l>
+               <l>Why not thy soule (a nobler forme) as well?</l>
+               <l>Why not invulnerable, why not all,</l>
+               <l>The Priviledges Truth or Fable call?</l>
+               <l>Deserv'd He not so much, who was these three</l>
+               <l>
+                  <hi>Valour, Religion</hi> and <hi>Nobility.</hi>
+               </l>
+               <l>Not in the vulgar manner, this in the Court</l>
+               <l>That in the Chamber, th'other in the Fort,</l>
+               <l>But all in each, so we now mourne His losse</l>
+               <l>Who 't once hath fought for the Colours and the Crosse.</l>
+               <pb facs="tcp:119694:27"/>
+               <l>Who with His Arme and sword, as not content</l>
+               <l>With th' bare Nobility of His descent,</l>
+               <l>Would purchace new, (when as our Monsieurs gilt</l>
+               <l>First are the Gentlemen, then weare the Hilt.)</l>
+               <l>Therefore Let's weep, if not till we are drown'd,</l>
+               <l>Yet let our pious Deluge wash His wound.</l>
+               <l>So layd I'th' Grave, weep still, for since VEERE's dead,</l>
+               <l>He's more than valiant can be comforted.</l>
+            </lg>
+            <closer>
+               <signed>J. Goad.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:27"/>
+            <head>An Elegy to the Memory of Sir HORATIO VEERE, Baron of <hi>Tilbury.</hi>
+            </head>
+            <lg>
+               <l>AFter this long amazement, This halfe death</l>
+               <l>The much astonish't World recovers breath</l>
+               <l>To utter her just plaints, which that great Crosse</l>
+               <l>Depress'd in silence; Now she feeles her losse</l>
+               <l>As rifing from a Traunce; Besotting griefe</l>
+               <l>Somewhat remitted, grant's us this reliefe</l>
+               <l>To manifest our sorrows, sighs burst forth</l>
+               <l>Now in articulate Nambers: whilst VEERE's worth</l>
+               <l>Inspires and Creates Poets, we dare try</l>
+               <l>Griefe dictating, to sob an Elegy.</l>
+               <l>He is an ample subject: His defects</l>
+               <l>Deserve to be admir'd: Who but reflects</l>
+               <l>Vpon His daring Lamenesse, may behold</l>
+               <l>Perfection imitable, He well could</l>
+               <pb facs="tcp:119694:28"/>
+               <l>Limpe into Honors bosome, vvhen ith' field</l>
+               <l>He vvore His Conquering svvord, untaught to yeeld,</l>
+               <l>He seem'd a <hi>Mars</hi> incarnate, vvith each looke</l>
+               <l>He vvounded His Majestick presence strook</l>
+               <l>Avve and amazement: As the timerous Deere</l>
+               <l>Flyes the pursuer, borrovving vvings of Feare,</l>
+               <l>So did the <hi>Spaniard</hi> his assaults: VEERE's Name</l>
+               <l>Epitomiz'd Artillery, His Fame</l>
+               <l>Was Engin, Cannon, and what e're doth win</l>
+               <l>Submission, and obedience. Yet in</l>
+               <l>The Court He could depose His frovvnes, and rayse</l>
+               <l>Such svveet yet sound discourse, merit such prayse</l>
+               <l>For solid judgement and advice as 'fH' had</l>
+               <l>Courted no <hi>Pallas,</hi> but of Arts. He made</l>
+               <l>Valour grovv courteous: No antipathy</l>
+               <l>Was found 'tvvixt Souldier and Civility:</l>
+               <l>In Him both vvere united. He well knevv</l>
+               <l>To vanquish in the Schooles, the practis'd Crevv,</l>
+               <l>And gaine <hi>Apollo's</hi> Lawrell. No lesse Charme</l>
+               <l>Was in His Tongue, then in His povverfull Arme:</l>
+               <l>All War to Him vvas Conquest, vvith that Art</l>
+               <l>He us'd His subtle Arguments to Dart,</l>
+               <pb facs="tcp:119694:28"/>
+               <l>With vvhich He threw His Iavelins, for no skill</l>
+               <l>His opposition could out vye, or quell:</l>
+               <l>This Living Science, only Ignorant,</l>
+               <l>What sin, vvhat a Tormented Conscience meant.</l>
+            </lg>
+            <lg>
+               <l>No vvonder if His Soule mounted on high,</l>
+               <l>Who could enthrone the humble dust i'th' skye?</l>
+               <l>VEERE's Center vvas the Pole: None ere deny'd</l>
+               <l>A Pure Intelligence a Heaven to Guide.</l>
+            </lg>
+            <closer>
+               <signed>Rich. Geale.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:29"/>
+            <head>Vpon the death of Sir HORA<g ref="char:EOLhyphen"/>TIO VEERE, Late Generall of the <hi>English</hi> in the Low Coun<g ref="char:EOLhyphen"/>tries, Baron of <hi>Tylbury.</hi>
+            </head>
+            <lg>
+               <l>GIve me a sword dipt i'th' last Armies Bloud,</l>
+               <l>That He o're came Himselfe, though scarce with stood.</l>
+               <l>Quils are too childish: Rimers of our Age</l>
+               <l>Will allow Inke to Chamber-maid and Page.</l>
+               <pb facs="tcp:119694:29"/>
+               <l>Horrour becomes thee best, I would faigne writ</l>
+               <l>In the same Colour VEERE, as Thou did'st fight</l>
+               <l>Thou should'st have Poems, like thy Obsequy,</l>
+               <l>Such as doth valour shew even to see:</l>
+               <l>The Poet that can fully sing Thy prayse,</l>
+               <l>Deserves a Captaines place, instead of Bayes.</l>
+               <l>Thou that could'st sacke a Town with lookes, whose eyes</l>
+               <l>Like to two flames consum'd Thy Enemies;</l>
+               <l>Thy Souldiers were but witnesses, for feare</l>
+               <l>None should believe Thy Acts, if none were there.</l>
+               <l>Death Time did measure; when there gasping lay</l>
+               <l>Halfe a great Army, then 'twas thought mid-day.</l>
+               <l>Thy Troops mistrusted always Thou would'st dye</l>
+               <l>By Conquering, drowned in Thy Victory.</l>
+               <l>When thou could'st graspe a sword first, this was done</l>
+               <l>When nothing but by force and Armes was wonne.</l>
+               <l>But when 'twas prov'd to all that Thou could'st do</l>
+               <l>More than five Kingdomes durst to undergo,</l>
+               <l>Wounds then were envyed, 'twas felicity,</l>
+               <l>And Triumph judg'd to owe their death to thee.</l>
+               <l>Thy Lawrels were with so much ease obtain'd,</l>
+               <l>Thou blush'd as at the Garlands in Masks gain'd.</l>
+               <pb facs="tcp:119694:30"/>
+               <l>They spoyl'd thy Recreation, quickly all</l>
+               <l>N'ere yeelding sport enough, would fly, or fall;</l>
+               <l>'Twas but to take the Ayre for thee to win,</l>
+               <l>As if in thy own Lordship Thou hadst been</l>
+               <l>A Hawking, it was but to beate and then,</l>
+               <l>There rose, and straight way fled Coneys of men.</l>
+               <l>Armes were at last supersluous, as in peace:</l>
+               <l>Men in the fields did go for choyce of ease.</l>
+               <l>Thy Souldiers did but Traine, as we see Those</l>
+               <l>That go to <hi>Finsbu<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> in their best Cloaths.</l>
+               <l>N<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> was Thy conquest only in the Field</l>
+               <l>B<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fore Thy Foes, Thou mad'st Thy selfe to yeeld.</l>
+               <l>For though so great in Birth, yet Thou could'st say,</l>
+               <l>Thou had'st seen Tragedies, and yet no Play:</l>
+               <l>Th<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u did'st not look upon Thy curious bilt,</l>
+               <l>And doubt'st to draw Thy sword to spoyle the guilt;</l>
+               <l>Ev'n out of <hi>Hide-Parke,</hi> Thou durst fight, could'st make</l>
+               <l>Men fly, not only for thy Ladies sake.</l>
+               <l>Durst to appeare in Armes, not mov'd with Love,</l>
+               <l>Where th' Eusigne was, nor Ribbond nor a Glove.</l>
+               <l>Nor wast Thou sent beyond sea with intent</l>
+               <l>
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, like Wine, Thy Lees to purge and vent:</l>
+               <pb facs="tcp:119694:30"/>
+               <l>Not was't a younger Brothers angry fire</l>
+               <l>Hating thy Country, rays'd Thy valour higher</l>
+               <l>Or feare of being ask't blessing in the street:</l>
+               <l>Or living a dull Captive in the Fleet.</l>
+               <l>No, no, Thy vertues counterpoys'd Thy bloud,</l>
+               <l>As Thou wert great and Noble, Thou wert good:</l>
+               <l>Thou wer't so al Compleat, Thy purer veyne</l>
+               <l>Of Goodnesse, not the very Campe could steyne.</l>
+               <l>Witnesse Thy zeale return'd: Men doubt so far</l>
+               <l>Whether Thou Leader wert in Church or War.</l>
+               <l>Not like those Cut-throats, who professe to kill,</l>
+               <l>That do come home from Sea, alike to spill</l>
+               <l>Blood here; who practice all the Might</l>
+               <l>On Drawers heads least They forget to fight;</l>
+               <l>That go in debt like hangmen, promise pay,</l>
+               <l>The next sedition, or next happy fray:</l>
+               <l>Who do lay seidge to Widdows, not to Towns,</l>
+               <l>Encounter with black-bags, and silken gowns:</l>
+            </lg>
+            <lg>
+               <l>Rest then brave spirit Thy great Name shall be,</l>
+               <l>Now our Commanding Leader stead of Thee.</l>
+               <l>Our hilts no more shall boast our Mistresse face</l>
+               <l>We'l have thy picture cut into that place.</l>
+               <pb facs="tcp:119694:31"/>
+               <l>Thy Tombe shall be our Altar, vve vvill trust</l>
+               <l>Lesse to our Castles povvder, than Thy Dust.</l>
+            </lg>
+            <closer>
+               <signed>Francis Palmer.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:31"/>
+            <head>An Elegy on the right Hono<g ref="char:EOLhyphen"/>rable Sir HORATIO VEERE, Baron of <hi>Tilbury,</hi> late Generall of the <hi>English</hi> in the Vnited Provinces.</head>
+            <lg>
+               <l>SHould vve the <hi>Spaniards</hi> ruin'd Forces aske,</l>
+               <l>They'l tell us VEERE is dead, joyfull to maske</l>
+               <l>Thy vvorth i'th vvinding sheete, and novv first dare</l>
+               <l>To pry into Thy Greatnesse, vievv and square,</l>
+               <l>Thy Actions, vvhen they are sure Th'art dead,</l>
+               <l>On th' Name vvhich once vvas Thunder boldly tread,</l>
+            </lg>
+            <lg>
+               <l>Sure He vvas Warlike that alive could boast</l>
+               <l>More Terror, than His Gastly Corpes or Ghost.</l>
+               <l>Others strong bodies, Poets dare to call</l>
+               <l>The Armies Rampire, or a living Wall.</l>
+               <l>His eye vvas more like Wild-fire't could Command</l>
+               <l>Death surer than another's Pike or hand:</l>
+            </lg>
+            <lg>
+               <l>And yet hovv pious vvas He, you might say</l>
+               <l>He fought still for the Altars, and did svvay</l>
+               <pb facs="tcp:119694:32"/>
+               <l>Iustice's ovvn sword, His ardency in War</l>
+               <l>Was zealous heat, not fury, every Scar</l>
+               <l>Put him in mind o'th' Passion; Drum and Flute</l>
+               <l>Were never heard to make the Organs mute.</l>
+            </lg>
+            <lg>
+               <l>Lamenesse suppress'd Thee not, vvhen thou vvith Grace</l>
+               <l>Went'st on unequall legs a vvav'ring pace:</l>
+               <l>Thou seemd'st above thy selfe, and yet beneath</l>
+               <l>Thy <hi>Vertues,</hi> vvhich could tyre fames longest breath:</l>
+               <l>Wound's set Thee upright, He that dares be Lame</l>
+               <l>Or halt by th'svvord, knovves hovv to leane on Fame.</l>
+            </lg>
+            <closer>
+               <signed>John Godfrey.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:32"/>
+            <head>To the happy memory of Sir HORATIO VEERE, Baron of <hi>Tilbury,</hi> &amp;c.</head>
+            <lg>
+               <l>YOu that have povverfull skill to cheate the Eye</l>
+               <l>With cunning <hi>Shaddows,</hi> and faire <hi>Imagerye</hi>
+               </l>
+               <l>That can infuse into your rare designes</l>
+               <l>A seeming <hi>Life,</hi> by vvell proportioned Lines;</l>
+               <l>And give such <hi>Motion</hi> too, that vve admire</l>
+               <l>Your <hi>Pencill</hi> equall vvith <hi>Prometheus</hi> fire,</l>
+               <l>Ioyne <hi>Phansies,</hi> and conspire in every <hi>Part,</hi>
+               </l>
+               <l>To make a generall <hi>Master-piece</hi> of <hi>Art.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Paint me a <hi>Mars,</hi> his <hi>Fauchion</hi> in his Hand,</l>
+               <l>In his <hi>Brow Valou,</hi> in his <hi>Eye Command;</hi>
+               </l>
+               <l>Throughout his <hi>Face</hi> a sterne strong <hi>Beauty</hi> such</l>
+               <l>As can endure the <hi>Sun beames</hi> scorching touch,</l>
+               <l>Or <hi>Winters</hi> keener <hi>Breath,</hi> than chose the <hi>Strength</hi>
+               </l>
+               <l>Of close compacted <hi>Limbs,</hi> rather than <hi>Length:</hi>
+               </l>
+               <pb facs="tcp:119694:33"/>
+               <l>Let Him be mounted on a <hi>Fiery Steed</hi>
+               </l>
+               <l>Of fiercest Courage, and the choycest <hi>Breed,</hi>
+               </l>
+               <l>Proud of his Riders managing, from vvhence</l>
+               <l>He seemes inspir'd vvith Mind, as vvell as <hi>Sense.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For your By-Drought pitch me a Battle fought,</l>
+               <l>And all-most to a certaine Issure brought</l>
+               <l>Where to retreat vvere <hi>Ʋalour,</hi> and to be</l>
+               <l>The Conquer'd vvas a kind of <hi>Ʋictory</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Dravv some pursuing, others flying: Heere</l>
+               <l>Let Divers stand hurt not 'vvth Shot, but Feare,</l>
+               <l>There Youngsters proud of easy Wounds, vvhose <hi>Skars</hi>
+               </l>
+               <l>More than their Service shevv they've been 'nth' Wars,</l>
+               <l>And there an upstart Lord, vvho came to th' field</l>
+               <l>To make that Scutchion, vvhich vvas meant a Shield:</l>
+            </lg>
+            <lg>
+               <l>Then paint the Victors by the Generals skill</l>
+               <l>Leading their Foes as Captives to their Will:</l>
+               <l>Discribe the famous <hi>Newport,</hi> vvhere <hi>Alone</hi>
+               </l>
+               <l>He excell'd other Armies and His ovvn;</l>
+               <l>Here, vvhen the Souldiers Stars like fell avvay,</l>
+               <l>He solely like the Sun, order'd the Day</l>
+               <l>Make Him the Governour too of <hi>Brill,</hi> where He</l>
+               <l>Single did shevv vvhole <hi>Councles Policy,</hi>
+               </l>
+               <pb facs="tcp:119694:33"/>
+               <l>Although some thought (and <note n="a" place="margin">The P. of o<g ref="char:EOLhyphen"/>range &amp; others that per<g ref="char:EOLhyphen"/>swaded him not adven<g ref="char:EOLhyphen"/>ture on the ser<g ref="char:EOLhyphen"/>vice, as being impre<g ref="char:EOLhyphen"/>gnable.</note> such too vvho had far</l>
+               <l>Search'd into th' subtle Stratagems of War)</l>
+               <l>The <hi>Sluce</hi> invincible; yet here at length</l>
+               <l>It must be yeelded to His <hi>Persons</hi> strength,</l>
+            </lg>
+            <lg>
+               <l>And then discribe vvhat <hi>Trust,</hi> vvhat <hi>Fame</hi> and State</l>
+               <l>His ovvn Arme purchas'd in th' <hi>Palatinate.</hi>
+               </l>
+               <l>How if <hi>Mart-Grave</hi> of <hi>Ansburgh</hi> had obey'd</l>
+               <l>The subtle and sure Rules His Providence lay'd</l>
+               <l>The present <hi>Austrean</hi> Forces then alone</l>
+               <l>Had not been vanquish'd, but the <hi>Region</hi>
+               </l>
+               <l>And the <hi>Palatinate</hi> had safely stood</l>
+               <l>Flovving in Milk and Hony, not in Bloud.</l>
+            </lg>
+            <lg>
+               <l>Then make <note n="b" place="margin">From Opulum to Man<g ref="char:EOLhyphen"/>baim:</note> Tvvo Armies each in th' others sight</l>
+               <l>And shevv hovv His Retreat though in the night</l>
+               <l>Was not a blind Designe, but prov'd to be</l>
+               <l>The light vvhich sav'd them from their Eenemy;</l>
+               <l>Though He vvas here of all supplies bereft,</l>
+               <l>Yet to return He still had spirit left,</l>
+               <l>And as an Oake, made bare by Winters cold,</l>
+               <l>Hath still its strength so vvhen forlorne He's bold.</l>
+            </lg>
+            <lg>
+               <l>Then tell Vs hovv the <hi>States</hi> humbly' obey</l>
+               <l>His Councels, and by Them did others svvay:</l>
+               <pb facs="tcp:119694:34"/>
+               <l>How the <note n="c" place="margin">Maurlet the last that died.</note>
+                  <hi>Great Prince</hi> of <hi>Orange</hi> did esteeme</l>
+               <l>His <hi>Head</hi> beyond the Richest <hi>Diademe</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>These done to the Life, the <hi>Figure</hi> will appeare</l>
+               <l>Presenting None but honourable VEERE.</l>
+               <l>In vvhose brave Frame (for which 'tvvas chiefly built)</l>
+               <l>The noble <hi>Genious</hi> of <hi>All Souldiers</hi> dvvelt,</l>
+               <l>
+                  <hi>His shade</hi> thus dravvn vvould conquer, vve should see</l>
+               <l>
+                  <hi>His Image</hi> sent against the <hi>Enemy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And yet hovv poore vvill these <hi>Perfections</hi> prove?</l>
+               <l>Here vve might vievv his <hi>Power,</hi> but nor his <hi>Love,</hi>
+               </l>
+               <l>
+                  <hi>His Vertues</hi> still lye hid, here no One sees</l>
+               <l>His forvvardnesse to teach <hi>War-Mysteries,</hi>
+               </l>
+               <l>How He by Precept and Example too,</l>
+               <l>Would shevv the meanest Souldier vvhere to go,</l>
+               <l>He not on's Foes alone, but on's Sins trod,</l>
+               <l>His Prayers vvith <hi>Holy Violence</hi> conquer'd <hi>God</hi>
+               </l>
+               <l>Though He vvith Rabels of Religious meet,</l>
+               <l>Yet alvvays He escap'd the <hi>Tempters Net,</hi>
+               </l>
+               <l>Keeping <hi>His Soule</hi> untainted, and so came</l>
+               <l>Home like the God He vvorship'd, STILL THE SAME</l>
+               <l>I'one hand His <hi>Prayer-Book,</hi> th'other held His Svvord,</l>
+               <l>O hovv in Him all vertues did accord!</l>
+               <pb facs="tcp:119694:34"/>
+               <l>
+                  <hi>Truth, Valour, Piety!—</hi>
+               </l>
+               <l>But <hi>Painters</hi> cease, here dravv your largest Vayle,</l>
+               <l>Busie your Thoughts, for novv your hand must fayle,</l>
+               <l>VEERE's <hi>more Heroique Parts do far out-vy</hi>
+               </l>
+               <l>
+                  <hi>The rare effects of Arts bold Industry.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>Edm. Borlasse.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:35"/>
+            <head>To the memory of that most Noble Warriour Sir HORATIO VEERE, Baron of <hi>Tylbury,</hi> &amp;c.</head>
+            <lg>
+               <l>GReat Conqueror of Thy selfe, and Men, vve dare</l>
+               <l>In Govvnes be valiant too, relating VEERE:</l>
+               <l>And take that Priviledge to vvrong Thy might</l>
+               <l>By praysing it in Verse, yet thinke 'tis right</l>
+               <l>Though thus t' abuse the dead 'tvvill prove no vice,</l>
+               <l>Or beare the Name of pious Covvardise,</l>
+               <l>We sentence not Thy Worth to th'narrovv Grave,</l>
+               <l>Or Story forth Thy name i'th' Epitaph.</l>
+               <l>The Stone may Book thee Captaine of a Shire</l>
+               <l>That never mustred Troops, but in's ovvn Spheare:</l>
+               <l>Whose Warlik looks put on vvith rich Array</l>
+               <l>His scarlet Hose, not vvorne since th' Wedding day,</l>
+               <l>Did gravely lead the Traine, reviv'd to heare</l>
+               <l>Defensive Armes and Company so neare:</l>
+               <pb facs="tcp:119694:35"/>
+               <l>Whose martiall Termes vvell con'd your Rank and File</l>
+               <l>For good Artillery pass'd and vvarr'd a vvhile;</l>
+               <l>Who nere marcht pale but in a Count fight,</l>
+               <l>And made no use o'th' day, yet look't for night:</l>
+               <l>Thyne vvere Outlandish fights, although ev'n there</l>
+               <l>Thy Native passions most oth' Captives vvere,</l>
+               <l>Grave reason svvay'd the body, and the field,</l>
+               <l>'Tvvas but the Iudgements taske to make both yeeld</l>
+               <l>The Tovvns Thou though<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'st to vvyn, vvere novv e'recome,</l>
+               <l>And in Thy Name, not Armes, they felt their doome:</l>
+               <l>Eoes vvere as Strangers, only till the Field</l>
+               <l>Whose chiefest slavery vvas to grant, they yeeld,</l>
+               <l>No Corps compos'd thy bridge, or marching ground,</l>
+               <l>'Tvvas not to Conquer this, but tread 'em dovvn.</l>
+               <l>Thy Wars vvere equall Games, the Lavv and right,</l>
+               <l>Claym'd greatest part of spoyles l'th' Lord VEERE's sight;</l>
+               <l>When hottest fields vvere pitcht, and most Men slaine</l>
+               <l>'Tvvas not to Pyrate Tovvns, but vvinn againe.</l>
+               <l>Devotion still vvas partner vvith the blovv,</l>
+               <l>Thou didst at once preach Iustice and o'rethrovv.</l>
+               <l>Thou vvent'st not o're to spoile some forraigne State,</l>
+               <l>O'r stead of getting Wit, to propagate.</l>
+               <pb facs="tcp:119694:36"/>
+               <l>No vices learnt vvith 'Tongues, no Synne of Note</l>
+               <l>Inducted vvas vvith this or that <hi>Buffe Coate.</hi>
+               </l>
+               <l>'Tvvas not Thy ayme 'Outlandish Realmes to see,</l>
+               <l>And once return'd, faile in <hi>Geography:</hi>
+               </l>
+               <l>To Conne the Map at vvhome, and point the Tovvn</l>
+               <l>Where you in th' hottest fight lay under ground,</l>
+               <l>Thy Voyage vvas to fight, not passe the Seas,</l>
+               <l>Thy Countrey not displeas'd Thee, but its Peace,</l>
+               <l>Thou vvent's to lend Thy vvounds, and purchase Stars</l>
+               <l>In forraigne Causes, and in borrovved Wars:</l>
+               <l>Thou like the Shields from Heaven falne, no end,</l>
+               <l>No Countrey knevv, but only to defend.</l>
+            </lg>
+            <closer>
+               <signed>Samuel Everara.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:119694:36"/>
+            <head>On the death of the right Ho<g ref="char:EOLhyphen"/>norable the Lord VEERE, Baron of <hi>Tilbury.</hi> &amp;c.</head>
+            <lg>
+               <l>VVHen VEERE deceases, Let none dare to call</l>
+               <l>His publique Vrne one single funerall.</l>
+               <l>When so much Valour under Marble lyes,</l>
+               <l>'Tis not one Man, but a vvhole Troope that dyes:</l>
+               <l>W'have lost an Army here; the crovvded stone,</l>
+               <l>At such a fall shuts up a <hi>Nation.</hi>
+               </l>
+               <l>This lazy <hi>Epitaph</hi> some Tombe may vveare,</l>
+               <l>That the dull Ashes of one Lord lyes here:</l>
+               <l>Whilst some perhaps thus brand the milde decease,</l>
+               <l>The quiet Man vvent full of Yeares and Peace:</l>
+               <l>Yet Thou e're strook vvith Thy ovvn overthrovv,</l>
+               <l>Who measured'st out a ruine to the Foe:</l>
+               <l>Thou vvho in War vvert thought Death's Magistrate,</l>
+               <l>As if alone Thou might'st dispence all Fate,</l>
+               <pb facs="tcp:119694:37"/>
+               <l>Who cut those threads off, vvhich vvere <hi>Clotho's strife</hi>
+               </l>
+               <l>To dravv into a larger vveb of Life</l>
+               <l>Who <hi>Atropos</hi> not ready, nor her Sheares,</l>
+               <l>Did'st vvith Thy svvord unravell future Yeares;</l>
+               <l>Be this the honor of Thy <hi>Epitaph,</hi>
+               </l>
+               <l>To have Thy Victoreis writ o're Thy Grave,</l>
+               <l>And vvould Thy Conquests sound! vvhich to rehearse</l>
+               <l>Would act an other Conquest on All Verse;</l>
+               <l>No Poetry vvould ever rise so far,</l>
+               <l>As the plaine Comments of Thy fatall War,</l>
+               <l>Let others strive for doubtfull Mastery,</l>
+               <l>And after triall dearer Victors be,</l>
+               <l>Thou still into the openest field did'st come;</l>
+               <l>Not to encounter, but fulfill a Doome,</l>
+               <l>Thus Thy approach still judg'd the Enemy</l>
+               <l>Who vvas not vanquisht, but condemn'd to dye:</l>
+               <l>Thy presence startled danger; Then all vvere,</l>
+               <l>All but the Enemies selfe, secur'd from feare.</l>
+               <l>Novv this exalts our thoughts, vve feele a flame</l>
+               <l>Spring in our Veines, as lighted from thy Name</l>
+               <l>Thus rais'd vve do even vvish an Enemy,</l>
+               <l>He's almost Souldier that but vvrites of Thee.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:119694:37"/>
+               <l>Novv I behold Thy forvvard spirit fly</l>
+               <l>With halfe a vving to dare the Enemy,</l>
+               <l>Thou scornd'st an equall figure, nor dist ere,</l>
+               <l>Esteeme of Number as Presage in War.</l>
+               <l>Yet conquered'st so, as if Thy Men still lay</l>
+               <l>In ambush clos'd and unseen, got the day</l>
+               <l>Or as like <hi>Cadmus</hi> race from out the ground</l>
+               <l>Grevv into Armour, borne t'inflict a vvound</l>
+               <l>But that a forraigne Blood, They only shed</l>
+               <l>And fought not till they left themselves all dead;</l>
+               <l>So that the greatfull Enemy vvould svvare,</l>
+               <l>This lessen'd all His Troupes to looke on VEERE</l>
+               <l>When He summ'd o're His men, it did appeare,</l>
+               <l>He reckon'd heads, and thou the Souldier.</l>
+            </lg>
+            <lg>
+               <l>Novv I behold Thee lead an Army, tyr'd</l>
+               <l>In a long March, only by Thee inspir'd</l>
+               <l>Still to renevv the War, and grapple so,</l>
+               <l>As if they should refresh them on the Fo,</l>
+               <l>Hovv they their load of Armour all unbrace,</l>
+               <l>And vvith a nakednesse defend the Place:</l>
+               <l>Stifled vvith vveight and svveat, hovv they lay by</l>
+               <l>Their aids, and do themselves get Victory.</l>
+               <pb facs="tcp:119694:38"/>
+               <l>Thus vvith thy spirit arm'd they nothing feare,</l>
+               <l>Vnlesse a <hi>Truce, the sad delay of war.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So vvere <hi>Thou</hi> verst in <hi>Horrors</hi> and through <hi>All</hi>
+               </l>
+               <l>At length arriv'dst to a slovv <hi>Funerall</hi>
+               </l>
+               <l>Thou even in dangers did'st grovv old, as if</l>
+               <l>Ruine and slaughter did preserve Thy Life.</l>
+               <l>Thus <hi>Salamanders</hi> live in flames, vvhilst you</l>
+               <l>Lay on more Pile, Y'increase their vigour too;</l>
+               <l>Whilst thus to others You prepare an Vrne,</l>
+               <l>You give a life heere if You let them burne.</l>
+               <l>Whose Actions all seem'd above Nature <hi>Thou</hi>
+               </l>
+               <l>At Thy decrease, art grovvn a <hi>wonder</hi> too;</l>
+               <l>For if an ancient Marriner vve style,</l>
+               <l>Only a long liv'd aged <hi>Miracle,</hi>
+               </l>
+               <l>May not a <hi>Reverend Hoary Leader</hi> passe</l>
+               <l>For a gray <hi>wonder,</hi> such as our VEERE vvas,</l>
+               <l>Since in more desperate stubborne vvaves ev'n <hi>He</hi>
+               </l>
+               <l>Svvam oft through Bloud, vvorse than the Marriner Sea,</l>
+               <l>Thus free 'mongst dangers spite of Enemies Fate,</l>
+               <l>To All but our desires. Thou did'st dye late,</l>
+               <l>Had'st Thou surviv'd a vvhile, vve All should svveare</l>
+               <l>Poets mistooke their other <hi>God of W<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi>
+               </l>
+               <pb facs="tcp:119694:38"/>
+               <l>But vvearied novv of life since Thou did'st knovv</l>
+               <l>It vvas a <hi>prize</hi> too great for any Foe;</l>
+               <l>Such as no dart could ravish from Thee, till</l>
+               <l>Thou did'st Thy selfe Command the Dart to kill,</l>
+               <l>Then Thou retyrd'st from War, Thy other Home</l>
+               <l>And left'st the <hi>Campe</hi> only to gaine a Tombe:</l>
+               <l>To act vvhose Ease vvould prove our Victory</l>
+               <l>Courage nere ovvn'd a <hi>Genius</hi> but Thee:</l>
+            </lg>
+            <closer>
+               <signed>W. Towers.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:119694:39"/>
+            <p>
+               <hi>There hath been (of late) such crowding to the Presse, that in the sweat its now in: some letters (happily) have made a</hi> faint Impression: <hi>But for other</hi> faults <hi>they are generally Accents, and you may help them in the sound: the reall mistakes are these.</hi>
+            </p>
+            <p>
+               <hi>Page 10. line 1<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. read</hi> gave. <hi>l. 15, r.</hi> our Army. <hi>p. 28, l. 5 r.</hi> reeking. <hi>p. 36. l. 7. r.</hi> lasts. <hi>p. 58. l. 6. r.</hi> conveyes. <hi>p. 63. l. 4. r.</hi> proportion'd. p. 72. <hi>l. 7. r.</hi> Hovv <hi>for</hi> And.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:119694:39"/>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>John. Hansley.</signed>
+               <date>
+                  <hi>July</hi> 16.<lb/> 1642.</date>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
